@@ -1,0 +1,13 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Gradle files
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# Log files
+*.log
